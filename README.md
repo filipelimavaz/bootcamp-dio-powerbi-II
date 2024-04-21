@@ -1,10 +1,10 @@
 # Desafio de Projeto: Processando e Transformando Dados com Power BI
 
 ## Objetivo Geral
-• Configurar o setup de banco de dados na Azure
-• Popular o servidor com script fornecido
-• Integre o MySQL com Power BI
-• Realize as transformações indicadas
+• Configurar o setup de banco de dados na Azure</br>
+• Popular o servidor com script fornecido</br>
+• Integre o MySQL com Power BI</br>
+• Realize as transformações indicadas</br>
 
 ### O que fazer?
 1. Criação de uma instância na Azure para MySQL
